@@ -5,6 +5,7 @@
 | Problem                                                           | Solution                                                                                            |
 | ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | [10,0001st Prime](https://projecteuler.net/problem=7)             | [here](./project-euler/nth_prime.py)                                                                |
+| [Count And Say](https://leetcode.com/problems/count-and-say/)     | [here](./leetcode/CountAndSay.java)                                                                 |
 | [Even Fibonacci Numbers](https://projecteuler.net/problem=2)      | [here](./project-euler/even_fibonacci_numbers.py)                                                   |
 | [Largest Palindrome Product](https://projecteuler.net/problem=4)  | [here](./project-euler/largest_palindrome_product.py)                                               |
 | [Largest Prime Factor](https://projecteuler.net/problem=3)        | [here](./project-euler/largest_prime_number.py)                                                     |
