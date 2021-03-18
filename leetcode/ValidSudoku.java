@@ -3,7 +3,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class ValidSudoku2 {
+public class ValidSudoku {
   private final static int COL_LENGTH = 9;
   private final static int ROW_LENGTH = 9;
 
