@@ -10,6 +10,7 @@
 | [Even Fibonacci Numbers](https://projecteuler.net/problem=2)      | [here](./project-euler/even_fibonacci_numbers.py)                              |
 | [Largest Palindrome Product](https://projecteuler.net/problem=4)  | [here](./project-euler/largest_palindrome_product.py)                          |
 | [Largest Prime Factor](https://projecteuler.net/problem=3)        | [here](./project-euler/largest_prime_number.py)                                |
+| [Largest Product in a Grid](https://projecteuler.net/problem=11)  | [here](./project-euler/largest_product_in_grid/largest_product_in_grid.py)     |
 | [Largest Product in a Series](https://projecteuler.net/problem=8) | [here](./project-euler/largest_product_in_series/largest_product_in_series.py) |
 | [Multiples of 3 and 5](https://projecteuler.net/problem=1)        | [here](./project-euler/multiples_of_3_and_5.py)                                |
 | [Smallest Multiple](https://projecteuler.net/problem=5)           | [here](./project-euler/smallest_multiple.py)                                   |
