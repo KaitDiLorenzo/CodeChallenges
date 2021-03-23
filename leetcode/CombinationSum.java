@@ -1,67 +1,53 @@
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.HashMap;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
-import java.util.Map;
 
 public class CombinationSum {
-  public List<List<Integer>> combinationSum(int[] candidates, int target) {
+  public static void main(String[] args) {
+    int[] candidates = { 2, 3, 6, 7 };
+    int target = 7;
+
+    System.out.println(combinationSum(candidates, target));
+  }
+
+  public static List<List<Integer>> combinationSum(int[] candidates, int target) {
     Arrays.sort(candidates);
 
-    Map<Integer, List<List<Integer>>> combinationSums = setCombinationSums(candidates, target, new HashMap<>());
-
-    return combinationSums.get(target);
-  }
-
-  private boolean isCandidate(int[] candidates, int value) {
-    int i = 0;
-    while (i < candidates.length && candidates[i] < value) {
-      i++;
-    }
-
-    return i < candidates.length && candidates[i] == value;
-  }
-
-  private Map<Integer, List<List<Integer>>> setCombinationSums(int[] candidates, int value,
-      Map<Integer, List<List<Integer>>> combinationSums) {
-    combinationSums.put(value, new ArrayList<>());
-
-    if (isCandidate(candidates, value)) {
-      List<Integer> combinationSum = new ArrayList<>();
-      combinationSum.add(value);
-      combinationSums.get(value).add(combinationSum);
-    }
-
-    for (int i = candidates[0]; i <= value / 2; i++) {
-      int augend = i;
-      int addend = value - i;
-
-      if (combinationSums.get(augend) == null) {
-        combinationSums = setCombinationSums(candidates, augend, combinationSums);
+    List<List<Integer>> combinations = new ArrayList<>();
+    for (int i = 0; i < candidates.length; i++) {
+      if (candidates[i] > target) {
+        break;
       }
 
-      if (!combinationSums.get(augend).isEmpty()) {
-        if (combinationSums.get(addend) == null) {
-          combinationSums = setCombinationSums(candidates, addend, combinationSums);
-        }
-
-        if (!combinationSums.get(addend).isEmpty()) {
-          for (List<Integer> addendCombinationSums : combinationSums.get(addend)) {
-            for (List<Integer> augendCombinationSum : combinationSums.get(augend)) {
-              List<Integer> combinationSum = new ArrayList<>(addendCombinationSums);
-              combinationSum.addAll(augendCombinationSum);
-              Collections.sort(combinationSum);
-
-              if (!combinationSums.get(value).contains(combinationSum)) {
-                combinationSums.get(value).add(combinationSum);
-              }
-            }
-          }
-        }
-      }
+      combinations = getCombinationSum(candidates, 0, 0, i, target, new ArrayList<>(), combinations);
     }
 
-    return combinationSums;
+    return combinations;
+  }
+
+  private static List<List<Integer>> getCombinationSum(int[] candidates, int candidateIndex, int combinationSum,
+      int rootIndex, int target, List<Integer> combination, List<List<Integer>> combinations) {
+    while (combinationSum + candidates[candidateIndex] <= target) {
+      combination.add(candidates[candidateIndex]);
+      combinationSum += candidates[candidateIndex];
+    }
+
+    if (combinationSum == target) {
+      combinations.add(combination);
+      return combinations;
+    }
+
+    combinationSum -= combination.get(combination.size() - 1);
+    combination.remove(combination.size() - 1);
+    if (combinationSum == 0) {
+      return combinations;
+    }
+
+    if (candidateIndex + 1 < candidates.length) {
+      combinations = getCombinationSum(candidates, candidateIndex + 1, combinationSum, rootIndex, target, combination,
+          combinations);
+    }
+
+    return combinations;
   }
 }
