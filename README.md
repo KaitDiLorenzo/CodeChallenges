@@ -16,6 +16,7 @@
 | [Largest Product in a Series](https://projecteuler.net/problem=8)                    | [here](./project-euler/largest_product_in_series/largest_product_in_series.py) |
 | [Multiples of 3 and 5](https://projecteuler.net/problem=1)                           | [here](./project-euler/multiples_of_3_and_5.py)                                |
 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/)                  | [here](./leetcode/MultiplyStrings.java)                                        |
+| [Repeated Strings](https://www.hackerrank.com/challenges/repeated-string)            | [here](./hacker-rank/repeated-string.js)                                       |
 | [Sales By Match](https://www.hackerrank.com/challenges/sock-merchant)                | [here](./hacker-rank/sales-by-match.js)                                        |
 | [Smallest Multiple](https://projecteuler.net/problem=5)                              | [here](./project-euler/smallest_multiple.py)                                   |
 | [Special Pythagorean Triplet](https://projecteuler.net/problem=9)                    | [here](./project-euler/special_pythagorean_triplet.py)                         |
