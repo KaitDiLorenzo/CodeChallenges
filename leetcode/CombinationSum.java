@@ -10,42 +10,38 @@ public class CombinationSum {
     System.out.println(combinationSum(candidates, target));
   }
 
+  class Node {
+    List<Integer> combination;
+    int candidateIndex;
+    int combinationSum;
+    Node parent;
+    List<Node> children;
+
+    Node(List<Integer> combination, int candidateIndex, int combinationSum, Node parent) {
+      this.combination = combination;
+      this.combinationSum = combinationSum;
+      this.parent = parent;
+      children = new ArrayList<>();
+    }
+
+    List<List<Integer>> getCombinations(int[] candidates, int target, List<List<Integer>> combinations) {
+      if (combinationSum < target) {
+        // do something
+      }
+    }
+  }
+
   public static List<List<Integer>> combinationSum(int[] candidates, int target) {
     Arrays.sort(candidates);
 
     List<List<Integer>> combinations = new ArrayList<>();
     for (int i = 0; i < candidates.length; i++) {
-      if (candidates[i] > target) {
-        break;
-      }
+      List<Integer> combination = new ArrayList<>();
+      combination.add(candidates[i]);
 
-      combinations = getCombinationSum(candidates, 0, 0, i, target, new ArrayList<>(), combinations);
-    }
+      Node node = new Node(combination, i, candidates[i], null);
 
-    return combinations;
-  }
-
-  private static List<List<Integer>> getCombinationSum(int[] candidates, int candidateIndex, int combinationSum,
-      int rootIndex, int target, List<Integer> combination, List<List<Integer>> combinations) {
-    while (combinationSum + candidates[candidateIndex] <= target) {
-      combination.add(candidates[candidateIndex]);
-      combinationSum += candidates[candidateIndex];
-    }
-
-    if (combinationSum == target) {
-      combinations.add(combination);
-      return combinations;
-    }
-
-    combinationSum -= combination.get(combination.size() - 1);
-    combination.remove(combination.size() - 1);
-    if (combinationSum == 0) {
-      return combinations;
-    }
-
-    if (candidateIndex + 1 < candidates.length) {
-      combinations = getCombinationSum(candidates, candidateIndex + 1, combinationSum, rootIndex, target, combination,
-          combinations);
+      combinations.addAll(node.getCombinations(candidates, target, combinations));
     }
 
     return combinations;
