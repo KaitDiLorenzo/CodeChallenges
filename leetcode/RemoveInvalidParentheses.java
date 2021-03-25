@@ -5,7 +5,7 @@ import java.util.Set;
 
 class RemoveInvalidParentheses {
   public static void main(String[] args) {
-    System.out.println(removeInvalidParentheses(")("));
+    System.out.println(removeInvalidParentheses(")o(v("));
   }
 
   public static List<String> removeInvalidParentheses(String s) {
@@ -44,6 +44,8 @@ class RemoveInvalidParentheses {
         if (!isInvalid) {
           removedInvalidLeftParentheses.add(strToFix);
         }
+
+        rightParenthesesIndices.clear();
       }
 
       partiallyRemovedInvalidLeftParentheses = newPartiallyRemovedInvalidLeftParentheses;
@@ -83,6 +85,8 @@ class RemoveInvalidParentheses {
         if (!isInvalid) {
           removedInvalidRightParentheses.add(strToFix);
         }
+
+        leftParenthesesIndices.clear();
       }
 
       partiallyRemovedInvalidRightParentheses = newPartiallyRemovedInvalidRightParentheses;
