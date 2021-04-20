@@ -9,6 +9,7 @@
 | [Count and Say](https://leetcode.com/problems/count-and-say/)                                   | [here](./leetcode/CountAndSay.java)                                            |
 | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys)                      | [here](./hacker-rank/counting-valleys.js)                                      |
 | [Even Fibonacci Numbers](https://projecteuler.net/problem=2)                                    | [here](./project-euler/even_fibonacci_numbers.py)                              |
+| [Highly Divisible Triangular Number](https://projecteuler.net/problem=12)                       | [here](./project-euler/highly_divisible_triangular_number.py)                  |
 | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds)            | [here](./hacker-rank/jumping-on-clouds.js)                                     |
 | [Largest Palindrome Product](https://projecteuler.net/problem=4)                                | [here](./project-euler/largest_palindrome_product.py)                          |
 | [Largest Prime Factor](https://projecteuler.net/problem=3)                                      | [here](./project-euler/largest_prime_number.py)                                |
