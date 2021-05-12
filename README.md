@@ -16,6 +16,7 @@
 | [Largest Prime Factor](https://projecteuler.net/problem=3)                                      | [here](./project-euler/largest_prime_number.py)                                |
 | [Largest Product in a Grid](https://projecteuler.net/problem=11)                                | [here](./project-euler/largest_product_in_grid/largest_product_in_grid.py)     |
 | [Largest Product in a Series](https://projecteuler.net/problem=8)                               | [here](./project-euler/largest_product_in_series/largest_product_in_series.py) |
+| [Longest Collatz Sequence](https://projecteuler.net/problem=14)                                 | [here](./project-euler/longest_collatz_sequence.py)                            |
 | [Multiples of 3 and 5](https://projecteuler.net/problem=1)                                      | [here](./project-euler/multiples_of_3_and_5.py)                                |
 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/)                             | [here](./leetcode/MultiplyStrings.java)                                        |
 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses)          | [here](./leetcode/RemoveInvalidParentheses.java)                               |
