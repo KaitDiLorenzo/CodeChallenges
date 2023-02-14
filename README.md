@@ -5,7 +5,8 @@
 | Problem                                                                                         | Solution                                                                       |
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
 | [10,0001st Prime](https://projecteuler.net/problem=7)                                           | [here](./project-euler/nth_prime.py)                                           |
-| [Combination Sum](https://leetcode.com/problems/combination-sum/)                               | [here](./leetcode/CombinationSum.java)                                         |
+| [Combination Sum](https://leetcode.com/problems/combination-sum)                               | [here](./leetcode/CombinationSum.java)                                         |
+| [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer)   | [here](./leetcode/ComplementOfBase10Integer.java)                                         |
 | [Count and Say](https://leetcode.com/problems/count-and-say/)                                   | [here](./leetcode/CountAndSay.java)                                            |
 | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys)                      | [here](./hacker-rank/counting-valleys.js)                                      |
 | [Even Fibonacci Numbers](https://projecteuler.net/problem=2)                                    | [here](./project-euler/even_fibonacci_numbers.py)                              |
