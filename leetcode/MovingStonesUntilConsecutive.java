@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class MovingStonesUntilConsecutive {
     public int[] numMovesStones(int a, int b, int c) {
         int[] stones = { a, b, c };
