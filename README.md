@@ -27,6 +27,7 @@
 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator)                                | [here](./leetcode/PeekingIterator.java)                                                      |
 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses)            | [here](./leetcode/RemoveInvalidParentheses.java)                             |
 | [Repeated Strings](https://www.hackerrank.com/challenges/repeated-string)                         | [here](./hacker-rank/repeated-string.js)                                        |
+| [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix)                            | [here](./leetcode/reshape_the_matrix.py)                                     |
 | [Sales By Match](https://www.hackerrank.com/challenges/sock-merchant)                             | [here](./hacker-rank/sales-by-match.js)                                         |
 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)   | [here](./leetcode/SearchBST.ts)                                                        |
 | [Smallest Multiple](https://projecteuler.net/problem=5)                                           | [here](./project-euler/smallest_multiple.py)                                      |
