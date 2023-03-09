@@ -23,6 +23,7 @@
 | [Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive)  | [here](./leetcode/MovingStonesUntilConsecutive.java)                         |
 | [Multiples of 3 and 5](https://projecteuler.net/problem=1)                                        | [here](./project-euler/multiples_of_3_and_5.py)                                   |
 | [Multiply Strings](https://leetcode.com/problems/multiply-strings)                                | [here](./leetcode/MultiplyStrings.java)                                                      |
+| [Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array)      | [here](./leetcode/number_of_ways_to_split_array.py)                          |
 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator)                                | [here](./leetcode/PeekingIterator.java)                                                      |
 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses)            | [here](./leetcode/RemoveInvalidParentheses.java)                             |
 | [Repeated Strings](https://www.hackerrank.com/challenges/repeated-string)                         | [here](./hacker-rank/repeated-string.js)                                        |
