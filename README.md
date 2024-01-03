@@ -25,6 +25,7 @@
 | [Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive)                                      | [here](./leetcode/MovingStonesUntilConsecutive.java)                              |
 | [Multiples of 3 and 5](https://projecteuler.net/problem=1)                                                                            | [here](./project-euler/multiples_of_3_and_5.py)                                   |
 | [Multiply Strings](https://leetcode.com/problems/multiply-strings)                                                                    | [here](./leetcode/MultiplyStrings.java)                                           |
+| [Number Letter Counts](https://projecteuler.net/problem=17)                                                                           | [here](./project-euler/NumberLetterCounts.java)                                   |
 | [Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array)                                          | [here](./leetcode/ways_to_split_array.py)                                         |
 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator)                                                                    | [here](./leetcode/PeekingIterator.java)                                           |
 | [Power Digit Sum](https://projecteuler.net/problem=15)                                                                                | [here](./project-euler/power_digit_sum.py)                                        |
