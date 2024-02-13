@@ -9,6 +9,7 @@
 | [Combination Sum](https://leetcode.com/problems/combination-sum)                                                                      | [here](./leetcode/CombinationSum.java)                                            |
 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer)                                          | [here](./leetcode/ComplementOfBase10Integer.java)                                 |
 | [Count and Say](https://leetcode.com/problems/count-and-say)                                                                          | [here](./leetcode/CountAndSay.java)                                               |
+| [Counting Sundays](https://projecteuler.net/problem=19)                                                                               | [here](./project-euler/counting_sundays.py)                                       |
 | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys)                                                            | [here](./hacker-rank/counting-valleys.js)                                         |
 | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array)                                                                | [here](./leetcode/DecodeXoredArray.java)                                          |
 | [Even Fibonacci Numbers](https://projecteuler.net/problem=2)                                                                          | [here](./project-euler/even_fibonacci_numbers.py)                                 |
