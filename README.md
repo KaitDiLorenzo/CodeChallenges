@@ -13,6 +13,7 @@
 | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys)                                                            | [here](./hacker-rank/counting-valleys.js)                                         |
 | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array)                                                                | [here](./leetcode/DecodeXoredArray.java)                                          |
 | [Even Fibonacci Numbers](https://projecteuler.net/problem=2)                                                                          | [here](./project-euler/even_fibonacci_numbers.py)                                 |
+| [GroupingDishes](https://app.codesignal.com/interview-practice/question/xrFgR63cw7Nch4vXo/description)                                | [here](./code-signal/GroupingDishes.java)                                         |
 | [Highly Divisible Triangular Number](https://projecteuler.net/problem=12)                                                             | [here](./project-euler/highly_divisible_triangular_number.py)                     |
 | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds)                                                  | [here](./hacker-rank/jumping-on-clouds.js)                                        |
 | [Lattice Paths](https://projecteuler.net/problem=15)                                                                                  | [here](./project-euler/lattice_paths.py)                                          |
