@@ -32,6 +32,7 @@
 | [Multiples of 3 and 5](https://projecteuler.net/problem=1)                                                                            | [here](./project-euler/multiples_of_3_and_5.py)                                   |
 | [Multiply Strings](https://leetcode.com/problems/multiply-strings)                                                                    | [here](./leetcode/MultiplyStrings.java)                                           |
 | [Name Scores](https://projecteuler.net/problem=22)                                                                                    | [here](./project-euler/name_scores/name_scores.py)                                |
+| [Non-Abundant Sums](https://projecteuler.net/problem=23)                                                                              | [here](./project-euler/non_abundant_sums.py)                                      |
 | [Number Letter Counts](https://projecteuler.net/problem=17)                                                                           | [here](./project-euler/NumberLetterCounts.java)                                   |
 | [Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array)                                          | [here](./leetcode/ways_to_split_array.py)                                         |
 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator)                                                                    | [here](./leetcode/PeekingIterator.java)                                           |
