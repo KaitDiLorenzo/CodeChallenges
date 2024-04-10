@@ -25,6 +25,7 @@
 | [Largest Prime Factor](https://projecteuler.net/problem=3)                                                                            | [here](./project-euler/largest_prime_number.py)                                   |
 | [Largest Product in a Grid](https://projecteuler.net/problem=11)                                                                      | [here](./project-euler/largest_product_in_grid/largest_product_in_grid.py)        |
 | [Largest Product in a Series](https://projecteuler.net/problem=8)                                                                     | [here](./project-euler/largest_product_in_series/largest_product_in_series.py)    |
+| [Lexicographic Permutations](https://projecteuler.net/problem=24)                                                                     | [here](./project-euler/lexicographic_permutations.py)                             |
 | [Longest Collatz Sequence](https://projecteuler.net/problem=14)                                                                       | [here](./project-euler/longest_collatz_sequence.py)                               | 
 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii)                                                    | [here](./leetcode/MaxConsecutiveOnesIII.java)                                     |
 | [Maximum Path Sum I](https://projecteuler.net/problem=18)                                                                             | [here](./project-euler/maximum_path_sum_i/maximum_path_sum_i.py)                  |
