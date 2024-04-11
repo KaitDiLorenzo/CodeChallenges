@@ -22,8 +22,8 @@ def get_edit_values(n, digits):
 
 
 def lexicographic_permutations(n, digits):
-    if math.factorial(len(digits)) < n:
-        raise ValueError('The value of n is greater than the number of possible permutations')
+    if n < 1 or n > math.factorial(len(digits)):
+        raise ValueError('The value of n is invalid.')
     
     edits = get_edit_values(n, digits)
 
