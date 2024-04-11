@@ -4,6 +4,7 @@
 
 | Problem                                                                                         | Solution                                                                       |
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| [1,000-Digit Fibonacci Number](https://projecteuler.net/problem=25)                                                                   | [here](./project-euler/1000_digit_fibonacci_number.py)                            |
 | [10,0001st Prime](https://projecteuler.net/problem=7)                                                                                 | [here](./project-euler/nth_prime.py)                                              |
 | [Amicable Numbers](https://projecteuler.net/problem=21)                                                                               | [here](./project-euler/amicable_numbers.py)                                       |
 | [Check if All the Integers in a Range are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered)    | [here](./leetcode/is_covered.py)                                                  |
