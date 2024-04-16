@@ -16,6 +16,7 @@
 | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array)                                                                | [here](./leetcode/DecodeXoredArray.java)                                          |
 | [Even Fibonacci Numbers](https://projecteuler.net/problem=2)                                                                          | [here](./project-euler/even_fibonacci_numbers.py)                                 |
 | [Factorial Digit Sum](https://projecteuler.net/problem=20)                                                                            | [here](./project-euler/factorial_digit_sum.py)                                    |
+| [Grading Students](https://www.hackerrank.com/challenges/grading)                                                                     | [here](./hacker-rank/GradingStudents.java)                                        |
 | [Grouping Dishes](https://app.codesignal.com/interview-practice/question/xrFgR63cw7Nch4vXo/description)                               | [here](./code-signal/GroupingDishes.java)                                         |
 | [Has Path With Given Sum](https://app.codesignal.com/interview-practice/question/TG4tEMPnAc3PnzRCs/description)                       | [here](./code-signal/HasPathWithGivenSum.java)                                    |
 | [Highly Divisible Triangular Number](https://projecteuler.net/problem=12)                                                             | [here](./project-euler/highly_divisible_triangular_number.py)                     |
