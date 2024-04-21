@@ -53,4 +53,5 @@
 | [Sum Square Difference](https://projecteuler.net/problem=6)                                                                           | [here](./project-euler/StrangeCounter.java)                                       |
 | [Summation Of Primes](https://projecteuler.net/problem=10)                                                                            | [here](./project-euler/summation_of_primes.py)                                    |
 | [Two Strings](https://www.hackerrank.com/challenges/two-strings)                                                                      | [here](./hacker-rank/TwoStrings.java)                                           |
+| [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree)                                                                    | [here](./hacker-rank/UtopianTree.java)                                          |
 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku)                                                                            | [here](./leetcode/ValidSudoku.java)                                                      |
