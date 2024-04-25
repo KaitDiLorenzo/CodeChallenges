@@ -49,6 +49,7 @@
 | [Sales By Match](https://www.hackerrank.com/challenges/sock-merchant)                                                                 | [here](./hacker-rank/sales-by-match.js)                                         |
 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)                                       | [here](./leetcode/SearchBST.ts)                                                        |
 | [Smallest Multiple](https://projecteuler.net/problem=5)                                                                               | [here](./project-euler/smallest_multiple.py)                                      |
+| [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays)                                                                  | [here](./hacer-rank/SparseArrays.java)                                         |
 | [Special Pythagorean Triplet](https://projecteuler.net/problem=9)                                                                     | [here](./project-euler/special_pythagorean_triplet.py)                            |
 | [Strange Counter](https://www.hackerrank.com/challenges/strange-code)                                                                 | [here](./hacker-rank/special_pythagorean_triplet.py)                            |
 | [Sum Square Difference](https://projecteuler.net/problem=6)                                                                           | [here](./project-euler/StrangeCounter.java)                                       |
