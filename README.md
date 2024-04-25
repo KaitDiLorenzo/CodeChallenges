@@ -29,6 +29,7 @@
 | [Largest Prime Factor](https://projecteuler.net/problem=3)                                                                            | [here](./project-euler/largest_prime_number.py)                                   |
 | [Largest Product in a Grid](https://projecteuler.net/problem=11)                                                                      | [here](./project-euler/largest_product_in_grid/largest_product_in_grid.py)        |
 | [Largest Product in a Series](https://projecteuler.net/problem=8)                                                                     | [here](./project-euler/largest_product_in_series/largest_product_in_series.py)    |
+| [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation)                                                            | [here](./hacker-rank/LeftRotation.java)                                         |
 | [Lexicographic Permutations](https://projecteuler.net/problem=24)                                                                     | [here](./project-euler/lexicographic_permutations.py)                             |
 | [Longest Collatz Sequence](https://projecteuler.net/problem=14)                                                                       | [here](./project-euler/longest_collatz_sequence.py)                               | 
 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii)                                                    | [here](./leetcode/MaxConsecutiveOnesIII.java)                                |
@@ -49,7 +50,7 @@
 | [Sales By Match](https://www.hackerrank.com/challenges/sock-merchant)                                                                 | [here](./hacker-rank/sales-by-match.js)                                         |
 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)                                       | [here](./leetcode/SearchBST.ts)                                                        |
 | [Smallest Multiple](https://projecteuler.net/problem=5)                                                                               | [here](./project-euler/smallest_multiple.py)                                      |
-| [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays)                                                                  | [here](./hacer-rank/SparseArrays.java)                                         |
+| [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays)                                                                  | [here](./hacker-rank/SparseArrays.java)                                         |
 | [Special Pythagorean Triplet](https://projecteuler.net/problem=9)                                                                     | [here](./project-euler/special_pythagorean_triplet.py)                            |
 | [Strange Counter](https://www.hackerrank.com/challenges/strange-code)                                                                 | [here](./hacker-rank/special_pythagorean_triplet.py)                            |
 | [Sum Square Difference](https://projecteuler.net/problem=6)                                                                           | [here](./project-euler/StrangeCounter.java)                                       |
