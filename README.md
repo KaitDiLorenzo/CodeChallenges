@@ -44,6 +44,7 @@
 | [Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array)                                          | [here](./leetcode/ways_to_split_array.py)                                    |
 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator)                                                                    | [here](./leetcode/PeekingIterator.java)                                      |
 | [Power Digit Sum](https://projecteuler.net/problem=15)                                                                                | [here](./project-euler/power_digit_sum.py)                                        |
+| [Quadratic Primes](https://projecteuler.net/problem=27)                                                                               | [here](./project-euler/quadratic_primes.py)                                       |
 | [Reciprocal Cycles](https://projecteuler.net/problem=26)                                                                              | [here](./project-euler/reciprocal_cycles.py)                                      |
 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses)                                                | [here](./leetcode/RemoveInvalidParentheses.java)                             |
 | [Repeated Strings](https://www.hackerrank.com/challenges/repeated-string)                                                             | [here](./hacker-rank/repeated-string.js)                                        |
