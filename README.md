@@ -1,6 +1,6 @@
 # Code Challenges
 
-> Holds a bunch of the code challenges I've done for fun/practice.
+> Holds a bunch of the code challenges I've done for fun/practice. My favorite solutions are in **bold**.
 
 | Problem                                                                                         | Solution                                                                       |
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
@@ -12,7 +12,7 @@
 | [Coin Sums](https://projecteuler.net/problem=31)                                                                                      | [here](./project-euler/coin_sums.py)  |
 | [Combination Sum](https://leetcode.com/problems/combination-sum)                                                                      | [here](./leetcode/CombinationSum.java)    |
 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer)                                          | [here](./leetcode/ComplementOfBase10Integer.java)                            |
-| [Count and Say](https://leetcode.com/problems/count-and-say)                                                                          | [here](./leetcode/CountAndSay.java)                                                      |
+| **[Count and Say](https://leetcode.com/problems/count-and-say)**                                                                      | **[here](./leetcode/CountAndSay.java)**   |
 | [Counting Sundays](https://projecteuler.net/problem=19)                                                                               | [here](./project-euler/counting_sundays.py)                                       |
 | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys)                                                            | [here](./hacker-rank/counting-valleys.js)                                       |
 | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array)                                                                | [here](./leetcode/DecodeXoredArray.java)  |
@@ -21,19 +21,19 @@
 | [Even Fibonacci Numbers](https://projecteuler.net/problem=2)                                                                          | [here](./project-euler/even_fibonacci_numbers.py) |
 | [Factorial Digit Sum](https://projecteuler.net/problem=20)                                                                            | [here](./project-euler/factorial_digit_sum.py)                                    |
 | [Grading Students](https://www.hackerrank.com/challenges/grading)                                                                     | [here](./hacker-rank/GradingStudents.java)                                      |
-| [Grouping Dishes](https://app.codesignal.com/interview-practice/question/xrFgR63cw7Nch4vXo/description)                               | [here](./code-signal/GroupingDishes.java)                                       |
+| [Grouping Dishes](https://app.codesignal.com/interview-practice/question/xrFgR63cw7Nch4vXo)                                           | [here](./code-signal/GroupingDishes.java)                                       |
 | [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybug)                                                                 | [here](./hacker-rank/HappyLadybugs.java)                                        |
-| [Has Path With Given Sum](https://app.codesignal.com/interview-practice/question/TG4tEMPnAc3PnzRCs/description)                       | [here](./code-signal/HasPathWithGivenSum.java)                                  |
+| [Has Path With Given Sum](https://app.codesignal.com/interview-practice/question/TG4tEMPnAc3PnzRCs)                                   | [here](./code-signal/HasPathWithGivenSum.java)                                  |
 | [Highly Divisible Triangular Number](https://projecteuler.net/problem=12)                                                             | [here](./project-euler/highly_divisible_triangular_number.py)                     |
 | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds)                                                  | [here](./hacker-rank/jumping-on-clouds.js)                                      |
-| [Lattice Paths](https://projecteuler.net/problem=15)                                                                                  | [here](./project-euler/lattice_paths.py)                                          |
+| **[Lattice Paths](https://projecteuler.net/problem=15)**                                                                              | **[here](./project-euler/lattice_paths.py)**  |
 | [Large Sum](https://projecteuler.net/problem=13)                                                                                      | [here](./project-euler/large_sum/large_sum.py)                                    |
-| [Largest Palindrome Product](https://projecteuler.net/problem=4)                                                                      | [here](./project-euler/largest_palindrome_product.py)                             |
-| [Largest Prime Factor](https://projecteuler.net/problem=3)                                                                            | [here](./project-euler/largest_prime_number.py)                                   |
+| **[Largest Palindrome Product](https://projecteuler.net/problem=4)**                                                                  | **[here](./project-euler/largest_palindrome_product.py)** |
+| **[Largest Prime Factor](https://projecteuler.net/problem=3)**                                                                        | **[here](./project-euler/largest_prime_factor.py)**   |
 | [Largest Product in a Grid](https://projecteuler.net/problem=11)                                                                      | [here](./project-euler/largest_product_in_grid/largest_product_in_grid.py)        |
 | [Largest Product in a Series](https://projecteuler.net/problem=8)                                                                     | [here](./project-euler/largest_product_in_series/largest_product_in_series.py)    |
 | [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation)                                                            | [here](./hacker-rank/LeftRotation.java)                                         |
-| [Lexicographic Permutations](https://projecteuler.net/problem=24)                                                                     | [here](./project-euler/lexicographic_permutations.py)                             |
+| **[Lexicographic Permutations](https://projecteuler.net/problem=24)**                                                                 | **[here](./project-euler/lexicographic_permutations.py)** |
 | [Longest Collatz Sequence](https://projecteuler.net/problem=14)                                                                       | [here](./project-euler/longest_collatz_sequence.py)                               |
 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i)                                        | [here](./leetcode/LongestUncommonSubsequenceI.java)                          |
 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii)                                                    | [here](./leetcode/MaxConsecutiveOnesIII.java)                                |
@@ -45,7 +45,7 @@
 | [Non-Abundant Sums](https://projecteuler.net/problem=23)                                                                              | [here](./project-euler/non_abundant_sums.py)                                      |
 | [Number Letter Counts](https://projecteuler.net/problem=17)                                                                           | [here](./project-euler/NumberLetterCounts.java)                                   |
 | [Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array)                                          | [here](./leetcode/ways_to_split_array.py)                                         |
-| [Number Spiral Diagonals](https://projecteuler.net/problem=28)                                                                        | [here](./project-euler/number_spiral_diagonals.py)                                |
+| **[Number Spiral Diagonals](https://projecteuler.net/problem=28)**                                                                    | **[here](./project-euler/number_spiral_diagonals.py)**    |
 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator)                                                                    | [here](./leetcode/PeekingIterator.java)                                           |
 | [Power Digit Sum](https://projecteuler.net/problem=15)                                                                                | [here](./project-euler/power_digit_sum.py)                                        |
 | [Quadratic Primes](https://projecteuler.net/problem=27)                                                                               | [here](./project-euler/quadratic_primes.py)                                       |

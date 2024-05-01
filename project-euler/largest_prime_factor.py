@@ -6,9 +6,7 @@ class Node:
 
     def get_factors(self):
         if self != None:
-            upper_limit = self.value // 2
-            i = 2
-            while i < upper_limit:
+            for i in range(2, self.value // 2):
                 if self.value % i == 0:
                     self.left = Node(None, None, i)
                     self.right = Node(None, None, self.value // i)
@@ -16,8 +14,7 @@ class Node:
                     self.left = self.left.get_factors()
                     self.right = self.right.get_factors()
                     break
-                i += 1
-
+                
         return self
 
     def get_largest_prime_factor(self):
