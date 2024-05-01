@@ -8,8 +8,9 @@
 | [10,0001st Prime](https://projecteuler.net/problem=7)                                                                                 | [here](./project-euler/nth_prime.py)                                              |
 | [Amicable Numbers](https://projecteuler.net/problem=21)                                                                               | [here](./project-euler/amicable_numbers.py)                                       |
 | [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets)                                                        | [here](./hacker-rank/BeautifulTriplets.java)                                    |
-| [Check if All the Integers in a Range are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered)    | [here](./leetcode/is_covered.py)                                                        |
-| [Combination Sum](https://leetcode.com/problems/combination-sum)                                                                      | [here](./leetcode/CombinationSum.java)                                       |
+| [Check if All the Integers in a Range are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered)    | [here](./leetcode/is_covered.py)  |
+| [Coin Sums](https://projecteuler.net/problem=31)                                                                                      | [here](./project-euler/coin_sums.py)  |
+| [Combination Sum](https://leetcode.com/problems/combination-sum)                                                                      | [here](./leetcode/CombinationSum.java)    |
 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer)                                          | [here](./leetcode/ComplementOfBase10Integer.java)                            |
 | [Count and Say](https://leetcode.com/problems/count-and-say)                                                                          | [here](./leetcode/CountAndSay.java)                                                      |
 | [Counting Sundays](https://projecteuler.net/problem=19)                                                                               | [here](./project-euler/counting_sundays.py)                                       |
