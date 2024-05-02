@@ -15,8 +15,8 @@ def is_palindrome(value):
 
 
 def largest_palindrome_product(num_of_digits):
-    max_factor = int("9" * num_of_digits)
-    min_factor = int("1" + "0" * (num_of_digits - 1))
+    max_factor = 10**num_of_digits - 1
+    min_factor = 10**(num_of_digits - 1)
     x = y = max_factor
 
     diagonal_amount = 1
@@ -24,6 +24,7 @@ def largest_palindrome_product(num_of_digits):
 
     last_x = x
     last_y = y
+    
     while x >= min_factor and y >= min_factor:
         product = x * y
         if is_palindrome(product):
